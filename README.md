@@ -40,7 +40,7 @@ Why the prolific Sporting striker has struggled to replicate his form at Arsenal
 ## 📬 Connect
 
 **Medium:** [@maiguokhian4](https://medium.com/@maiguokhian4)  
-**Twitter:** *@Matre_khian*
+**Twitter:** [@Matre_khian](https://x.com/Matre_khian)
 
 ---
 
