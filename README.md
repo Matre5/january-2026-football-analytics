@@ -6,7 +6,7 @@ Data-driven tactical analysis of the 2025-26 Premier League season.
 
 ### 1. [Sunderland vs Man City: Tactical Evolution](notebooks/01_jan01_sunderland_mancity.ipynb)
 **Published:** January 2, 2026  
-**Medium:** [Read the full breakdown](https://medium.com/@maiguokhian4/sunderland-said-new-year-new-me-bd69676db48c)
+**Medium:** [Read the full breakdown](https://medium.com/@Matre_Khian/sunderland-said-new-year-new-me-bd69676db48c)
 
 From a 3-0 loss to a 0-0 draw - how Sunderland learned from their mistakes.
 
@@ -39,7 +39,7 @@ Why the prolific Sporting striker has struggled to replicate his form at Arsenal
 
 ## 📬 Connect
 
-**Medium:** [@maiguokhian4](https://medium.com/@maiguokhian4)  
+**Medium:** [@maiguokhian4](https://medium.com/@Matre_Khian)  
 **Twitter:** [@Matre_khian](https://x.com/Matre_khian)
 
 ---
